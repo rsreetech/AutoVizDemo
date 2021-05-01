@@ -10,3 +10,5 @@ AutoViz (https://github.com/AutoViML/AutoViz)
 
 Kaggle Heart Disease Data(https://www.kaggle.com/ronitf/heart-disease-uci)
 
+Jupyter (pip install jupyter)
+
